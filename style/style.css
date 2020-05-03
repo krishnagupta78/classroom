@@ -1,0 +1,16 @@
+.container-fluid{
+    width: 1080px;
+   position: relative;
+   margin-right: 110px;
+    text-align: center;
+}
+row{
+    float: none;
+    align-self: center;
+}
+.card{
+    height: 250px;
+    padding: 9px;
+    margin: 10px;
+    width: 240px;
+}

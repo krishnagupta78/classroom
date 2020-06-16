@@ -1,7 +1,8 @@
-.container-fluid{
+.container{
     width: 1080px;
    position: relative;
-   margin-right: 110px;
+    display: inline-block;
+  
     text-align: center;
 }
 row{
